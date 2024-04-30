@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arup3105 
-- 👀 I’m interested in learning java python C etc.
-- 🌱 I’m currently learning java & python.
+- 👀 I’m interested in learning java python C NEXTjs etc.
+- 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on any language.
 - 📫 Contact me devrup31@gmail.com
 
